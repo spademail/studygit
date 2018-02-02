@@ -1,2 +1,2 @@
-gis is a version control system.
+gis is a distributed version control system.
 git is free software.
